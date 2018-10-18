@@ -2,8 +2,8 @@
 title: Films
 ---
 
-* der Filme - Films
-* Liebsfilme - romantic movies
+* die Filme - Films
+* Liebesfilme - romantic movies
 * Science-Fiction Filme - Science fiction
 * Actionfilme - action films
 * Horrorfilme - horror films
@@ -13,17 +13,17 @@ title: Films
 * Westerns - cowboy movies
 * Historische Filme - history films
 * Fantasyfilme - fantasy films
-* Abentuerfilme - adventure films
+* Abenteuerfilme - adventure films
 * Kriegsfilme - War times
 
 # Opinions on Films
 
-* Ich sehe gern... - I like watching...
-* Ich sehe nicht gern... - I don't like watching...
-* Gehst du gern ins Kino? - Do you like going to the cinema?
+* Ich sehe gerne... - I like watching...
+* Ich sehe nicht gerne... - I don't like watching...
+* Gehst du gerne ins Kino? - Do you like going to the cinema?
 
 # Example Paragraph
 
-**Question:** Gehst du gern ins Kino? <br />
+**Question:** Gehst du gerne ins Kino? <br />
 
-Ja, Ich gehe gern ins Kino. Ich sehe gern Abenteuerfilme, weil sie ziemlich spannend und sehr unterhaltsam sind! Aber Ich sehe nicht gern westerns weil Ich sie stinklangweilig! Meine Lieblingsfilme ist Star Wars, weil die speziale effekte so imponierend sind. - Yes, I like going to the cinema. I like watching adventure fims becauase they are pretty exciting and very entertaining. But I don't like watching cowboy movies because they have swear words. My favourite movie is Star Wars because the special effects are so impressive.
+Ja, Ich gehe gerne ins Kino. Ich sehe gerne Abenteuerfilme, weil sie ziemlich spannend und sehr unterhaltsam sind! Aber Ich sehe nicht gerne Westerns weil ich sie stinklangweilig finde! Mein Lieblingsfilm ist Star Wars, weil die Spezialeffekte so imponierend sind. - Yes, I like going to the cinema. I like watching adventure fims becauase they are pretty exciting and very entertaining. But I don't like watching cowboy movies because they have swear words. My favourite movie is Star Wars because the special effects are so impressive.
